@@ -1,8 +1,12 @@
-NumPy
+streamlit
+torch
+numpy
 pandas
-scipy
 matplotlib
-sklearn
+scipy
+scikit-learn
+cvxpy
 yfinance
-pytest
-transformers
+fredapi
+huggingface_hub
+alpaca-trade-api
